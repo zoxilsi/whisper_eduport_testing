@@ -1,0 +1,9 @@
+whisper-env/
+*.mp3
+*.wav
+*.m4a
+*.srt
+*.txt
+__pycache__/
+*.pyc
+.cache/
