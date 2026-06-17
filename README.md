@@ -12,6 +12,19 @@
 
 ---
 
+## 🎬 Tested Example
+
+Watch the pipeline output in action on YouTube:
+
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch_Tested_Output-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZMUaRgv-7o0?si=8UGXVAK7JPcHplLP)
+
+**Available Subtitles:**
+- 🇬🇧 **English** — Direct Whisper output
+- 🇮🇳 **Hindi** — Translated from English via deep-translator
+- 🇮🇳 **Tamil** — Translated from English via deep-translator
+
+---
+
 ## 🗺️ Full Pipeline
 
 ```mermaid
